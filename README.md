@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-Describe your project
+This repo contains all my learnings related to SOLIDITY..
 
 ## :sparkles: Concepts ##
 
